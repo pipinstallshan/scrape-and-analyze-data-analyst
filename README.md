@@ -1,3 +1,3 @@
 # Scrape and Analyze Data Analyst - Coursera
-Scrape and analyze data analyst job requirements with Python
+Scrape and analyze data analyst job requirements with Python <br/>
 🔗 https://hub.labs.coursera.org/connect/sharedfnvxuiaq?forceRefresh=false&path=%2Fnotebooks%2FWebScraping.ipynb&isLabVersioning=file-prep
